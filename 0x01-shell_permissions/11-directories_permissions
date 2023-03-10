@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drugo+u 
+chmod -Rugo+X 
