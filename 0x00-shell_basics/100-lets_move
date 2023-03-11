@@ -1,2 +1,2 @@
 #!/bin/bash
-mv *HEAD files /tmp/u
+mv [[:upper=]]* /tmp/u
